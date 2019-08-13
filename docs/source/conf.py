@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = '2381-docs'
-copyright = '2019, Jeffrey Li'
-author = 'Jeffrey Li'
+copyright = '2019, 2381 Robotics'
+author = 'Jeffrey Li Et Al.'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
